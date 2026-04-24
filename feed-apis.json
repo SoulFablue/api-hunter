@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-04-24T10:16:31.980Z",
+  "lookbackHours": 24,
+  "accounts": [
+    {
+      "source": "account",
+      "name": "Pieter Levels",
+      "handle": "levelsio",
+      "bio": "Maker of Nomad List, Remote OK, Photo AI",
+      "tweets": [
+        {
+          "id": "mock_tweet_1",
+          "text": "Just launched a new API for Photo AI - generate professional headshots with AI. Free tier: 10 images/month. https://photoai.com/api",
+          "createdAt": "2026-04-24T10:16:31.981Z",
+          "url": "https://x.com/levelsio/status/mock_tweet_1",
+          "urls": [
+            "https://photoai.com/api"
+          ],
+          "likes": 234,
+          "retweets": 45
+        },
+        {
+          "id": "mock_tweet_2",
+          "text": "Supabase is amazing for building APIs quickly. Open source Firebase alternative with PostgreSQL. https://supabase.com",
+          "createdAt": "2026-04-24T10:16:31.981Z",
+          "url": "https://x.com/levelsio/status/mock_tweet_2",
+          "urls": [
+            "https://supabase.com"
+          ],
+          "likes": 156,
+          "retweets": 23
+        }
+      ]
+    },
+    {
+      "source": "account",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "CEO @vercel",
+      "tweets": [
+        {
+          "id": "mock_tweet_3",
+          "text": "Vercel AI SDK makes it super easy to build AI apps. Stream responses, handle errors, works with any LLM. https://sdk.vercel.ai",
+          "createdAt": "2026-04-24T10:16:31.981Z",
+          "url": "https://x.com/rauchg/status/mock_tweet_3",
+          "urls": [
+            "https://sdk.vercel.ai"
+          ],
+          "likes": 567,
+          "retweets": 89
+        }
+      ]
+    }
+  ],
+  "searchResults": [
+    {
+      "id": "mock_search_1",
+      "text": "New API alert: Resend - developer-first email API. Simple SDK, great docs, 100 emails/day free. https://resend.com",
+      "createdAt": "2026-04-24T10:16:31.981Z",
+      "url": "https://x.com/t3dotgg/status/mock_search_1",
+      "urls": [
+        "https://resend.com"
+      ],
+      "likes": 89,
+      "retweets": 12,
+      "author": {
+        "name": "Theo",
+        "handle": "t3dotgg"
+      }
+    },
+    {
+      "id": "mock_search_2",
+      "text": "Upstash launched serverless Redis API. Pay per request, global edge network. Perfect for Next.js apps. https://upstash.com",
+      "createdAt": "2026-04-24T10:16:31.981Z",
+      "url": "https://x.com/upstash/status/mock_search_2",
+      "urls": [
+        "https://upstash.com"
+      ],
+      "likes": 145,
+      "retweets": 34,
+      "author": {
+        "name": "Upstash",
+        "handle": "upstash"
+      }
+    }
+  ],
+  "stats": {
+    "accountsWithTweets": 2,
+    "totalAccountTweets": 3,
+    "searchResults": 2
+  }
+}

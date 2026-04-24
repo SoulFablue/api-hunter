@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    { "handle": "levelsio", "name": "Pieter Levels" },
+    { "handle": "swyx", "name": "Swyx" },
+    { "handle": "rauchg", "name": "Guillermo Rauch" },
+    { "handle": "t3dotgg", "name": "Theo" },
+    { "handle": "jaredpalmer", "name": "Jared Palmer" },
+    { "handle": "amasad", "name": "Amjad Masad" },
+    { "handle": "alexalbert__", "name": "Alex Albert" },
+    { "handle": "karpathy", "name": "Andrej Karpathy" }
+  ],
+  "keywords": [
+    "new API",
+    "API launch",
+    "free API",
+    "developer tools",
+    "open source API",
+    "API released"
+  ]
+}

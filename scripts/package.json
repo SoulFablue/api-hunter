@@ -1,0 +1,14 @@
+{
+  "name": "api-hunter-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for API Hunter - track APIs shared by developers on X",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-feed.js",
+    "prepare": "node prepare-digest.js",
+    "deliver": "node deliver.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0"
+  }
+}
